@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595846597291",
+    "project_id": "walletcompass-9d357",
+    "storage_bucket": "walletcompass-9d357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595846597291:android:61aef2ffe742647f9e85ee",
+        "android_client_info": {
+          "package_name": "com.example.smart_admin_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN3eYcpoMxCXHCupfsZbnBriRPhieKI-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
